@@ -10,6 +10,6 @@ You can use the (Arduboy) compiled `.hex` in the `build` folder
 If you're using a DIY/Homebrew Arduboy, the `.hex` would be incompatible, so you would need to generate your own hex from the source code. (Arduino IDE: Sketch > Export Compiled Binary)
 
 ## License Notice
-This project uses modified files from @filmote's [4x6 font library](https://community.arduboy.com/t/4x6-font-for-the-arduboy/5589).
+This project uses modified files from @filmote 's [4x6 font library](https://community.arduboy.com/t/4x6-font-for-the-arduboy/5589).
 
 Please read the `NOTICE` file for more information.
