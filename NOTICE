@@ -1,0 +1,12 @@
+This project uses modified files from this library by @filmote: 
+https://community.arduboy.com/t/4x6-font-for-the-arduboy/5589
+
+Files included from that library are (exclusively) in the "src/fonts" folder.
+
+The modified file has a notice at the top indicating that it's contents have been changed.
+
+A license file called "LICENCE-FONT4X6" with the BSD 3-Clause license has been added as well, 
+to abide by @filmote's library's license (BSD 3-Clause) terms.
+
+The Apache 2.0 license file "LICENSE" protects everything but the files in the "src/fonts" folder, 
+whose contents are protected by the BSD 3-Clause license file "LICENSE-FONT4X6"
