@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../../..,../../../..,../../../..,../../../..,../../../..,../../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduboy-homemade:avr:arduboy-fx:core=arduboy-core,boot=cathy3k",
+  "hardwareFolders": "/Users/om/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/om/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo"
+}

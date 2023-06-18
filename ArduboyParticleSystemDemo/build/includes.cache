@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/cores/arduboy"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/variants/arduboy"
+  },
+  {
+    "Sourcefile": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo/build/sketch/ArduboyParticleSystemDemo.ino.cpp",
+    "Include": "Arduboy2.h",
+    "Includepath": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src"
+  },
+  {
+    "Sourcefile": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo/build/sketch/ArduboyParticleSystemDemo.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/EEPROM/src"
+  },
+  {
+    "Sourcefile": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo/build/sketch/ArduboyParticleSystemDemo.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo/build/sketch/src/AB-Particles/AB-Particles.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo/build/sketch/src/AB-Particles/User-Setup.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Downloads/ARDUBOY/ArduboyParticleSystemDemo/build/sketch/src/fonts/Font4x6.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/Arduboy2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/Arduboy2Audio.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/Arduboy2Beep.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/Arduboy2Core.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/Arduboy2Data.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/Sprites.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/om/Library/Arduino15/packages/arduboy-homemade/hardware/avr/1.3.4/libraries/Arduboy2/src/SpritesB.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
