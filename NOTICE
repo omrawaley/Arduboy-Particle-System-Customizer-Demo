@@ -3,7 +3,7 @@ https://community.arduboy.com/t/4x6-font-for-the-arduboy/5589
 
 Files included from that library are (exclusively) in the "src/fonts" folder.
 
-The modified file has a notice at the top indicating that it's contents have been changed.
+The modified file has a notice at the top indicating that its contents have been changed.
 
 A license file called "LICENCE-FONT4X6" with the BSD 3-Clause license has been added as well, 
 to abide by @filmote's library's license (BSD 3-Clause) terms.
